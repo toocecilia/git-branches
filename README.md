@@ -6,3 +6,4 @@ These are a few of my favorite things:
 - Whiskers on cute animals
 - Bright copper kettles
 - Warm woolen mittens
+- Not editing directly on GitHub
